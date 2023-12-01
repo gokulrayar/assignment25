@@ -1,0 +1,6 @@
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\bin\Release\MySharedLibrary.dll
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\bin\Release\MySharedLibrary.pdb
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Release\MySharedLibrary.csproj.AssemblyReference.cache
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Release\MySharedLibrary.csproj.CoreCompileInputs.cache
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Release\MySharedLibrary.dll
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Release\MySharedLibrary.pdb

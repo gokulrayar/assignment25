@@ -4,3 +4,9 @@ C:\Mphasis dot net\Day 20\Assignment 25\MySharedLibrary\MySharedLibrary\obj\Debu
 C:\Mphasis dot net\Day 20\Assignment 25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
 C:\Mphasis dot net\Day 20\Assignment 25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
 C:\Mphasis dot net\Day 20\Assignment 25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+F:\C#\day 20\assignment25\mysharedlibraryas25\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
